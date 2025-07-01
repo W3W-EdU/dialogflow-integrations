@@ -28,7 +28,7 @@
     "nyc": "^14.1.1"
   },
   "dependencies": {
-    "documentation": "^12.1.2",
+    "documentation": "^13.0.0",
     "lodash": "^4.17.15",
     "pluralize": "^8.0.0",
     "request": "^2.88.0",
