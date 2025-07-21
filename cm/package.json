@@ -10,7 +10,7 @@
     "dialogflow": "0.9.1",
     "express": "^4.16.4",
     "request": "^2.88.0",
-    "@cmdotcom/text-sdk": "^1.2.0"
+    "@cmdotcom/text-sdk": "^2.0.0"
   },
   "engines": {
     "node": "8.x"
