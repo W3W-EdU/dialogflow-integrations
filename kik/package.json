@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@kikinteractive/kik": "^2.2.1",
-    "dialogflow": "^0.8.0",
+    "dialogflow": "^0.9.1",
     "express": "^4.17.1",
     "require": "^2.4.20"
   },
