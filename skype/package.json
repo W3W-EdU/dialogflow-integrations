@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "botbuilder": "^4.4.0",
-    "dialogflow": "0.6.0",
+    "dialogflow": "0.9.1",
     "express": "^4.16.4"
   },
   "devDependencies": {
